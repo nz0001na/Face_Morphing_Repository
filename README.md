@@ -7,9 +7,6 @@ Keep updating!!!
 ## Face Morphing
 * 2022	A Comprehensive Review of Face Morph Generation and Detection of Fraudulent Identities	[[paper]](https://www.mdpi.com/2076-3417/12/24/12545)
 
-
-
-
 ## 3D Morphing
 * 2022		3D Face Morphing Attacks: Generation, Vulnerability and Detection	[[paper]](https://arxiv.org/abs/2201.03454)
 
@@ -24,6 +21,17 @@ Keep updating!!!
 * 2022	Recent Advances in Vision Transformer: A Survey and Outlook of Recent Work	[[paper]](https://arxiv.org/abs/2203.01536)
 * 2022	Three things everyone should know about Vision Transformers	[[paper]](https://arxiv.org/abs/2203.09795)
 * 2022	Transformers in computational visual media: A survey	[[paper]](https://link.springer.com/article/10.1007/s41095-021-0247-3)
+
+# Face Morphing Attacks
+* 2021	Vulnerability Analysis of Face Morphing Attacks from Landmarks and Generative Adversarial Networks	[[paper]](https://arxiv.org/abs/2012.05344)
+* 2023	MorDIFF: Recognition Vulnerability and Attack Detectability of Face Morphing Attacks Created by Diffusion Autoencoders	[[paper]](https://arxiv.org/abs/2302.01843)
+* 2021	ReGenMorph: Visibly Realistic GAN Generated Face Morphing Attacks by Attack Re-generation	[[paper]](http://128.84.21.203/abs/2108.09130)
+* 2021	Deep Composite Face Image Attacks: Generation, Vulnerability and Detection	[[paper]](https://arxiv.org/abs/2211.11039)
+* 2023	Diffusion Models For Stronger Face Morphing Attacks	[[paper]](https://arxiv.org/abs/2301.04218)
+* 2022	3D Face Morphing Attacks: Generation, Vulnerability and Detection	[[paper]](https://arxiv.org/abs/2201.03454)
+
+
+
 
 # Generation Models
 ## Tools
