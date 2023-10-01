@@ -109,7 +109,31 @@ Keep updating!!!
 
 # Face Morphing Attacks Detection (MAD)
 ## Single-based MAD
-
+* 2022		Generation and Detection of Face Morphing Attacks [[paper]](https://ieeexplore.ieee.org/abstract/document/9815237)		
+* 2022	[MorDeephy]	MorDeephy: Face Morphing Detection Via Fused Classification [[paper]](https://arxiv.org/abs/2208.03110)		
+* 2022		Single Morphing Attack Detection using Siamese Network and Few-shot Learning	FSL	[[paper]](https://arxiv.org/abs/2206.10969)		
+* 2022		Face morphing attack detection and attacker identification based on a watchlist [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0923596522000741)		
+* 2022		SYN-MAD 2022: Competition on Face Morphing Attack Detection Based on Privacy-aware Synthetic Training Data [[paper]](https://arxiv.org/abs/2208.07337),	[[code]](https://github.com/marcohuber/syn-mad-2022)	
+* 2022		Detection of Face Morphing Attacks Based on Patch-Level Features and Lightweight Networks [[paper]](https://www.hindawi.com/journals/scn/2022/7460330/)		
+* 2022		Towards generalized morphing attack detection by learning residuals [[paper]](https://www.sciencedirect.com/science/article/pii/S0262885622001640)		
+* 2022		Morphing Attacks and Detection using Spectral Images	master thesis	[[paper]](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3003642)		
+* 2022		Morph Detection Enhanced by Structured Group Sparsity	 [[paper]](https://openaccess.thecvf.com/content/WACV2022W/MAP-A/html/Aghdaie_Morph_Detection_Enhanced_by_Structured_Group_Sparsity_WACVW_2022_paper.html)
+* 2022		Noise robust face morphing detection method	[[paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12174/1217417/Noise-robust-face-morphing-detection-method/10.1117/12.2628711.short?SSO=1)		
+* 2022		Landmark Enforcement and Principal Component Analysis for Improving GAN-Based Morphing	MS thesis	[[paper]](https://researchrepository.wvu.edu/etd/11288/)		
+* 2022	[OrthoMAD]	OrthoMAD: Morphing Attack Detection Through Orthogonal Identity Disentanglement		[[paper]](https://arxiv.org/abs/2208.07841)		
+* 2022		Unsupervised Face Morphing Attack Detection via Self-paced Anomaly Detection	[[paper]](https://arxiv.org/abs/2208.05787),	[[code]](https://github.com/meilfang/spl-mad)
+* 2021		MSA-CNN: Face Morphing Detection via a Multiple Scales Attention Convolutional Neural Network				
+* 2021		Morphing Attack Detection: A Fusion Approach [[paper]](https://ieeexplore.ieee.org/abstract/document/9627012)		
+* 2018		Detecting Morphed Face Images Using Facial Landmarks  [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-94211-7_48)	
+* 2018		Morphing Attack Detection using Laplace operator based features  [[paper]](https://ojs.bibsys.no/index.php/NIK/article/view/883)	
+* 2021		Feature Focus: Towards Explainable and Transparent Deep Face Morphing Attack Detectors				
+* 2021		Single and Differential Morph Attack Detection				
+* 2023		A Principal Component Analysis-Based Approach for Single Morphing Attack Detection [[paper]](https://openaccess.thecvf.com/content/WACV2023W/XAI4B/html/Dargaud_A_Principal_Component_Analysis-Based_Approach_for_Single_Morphing_Attack_Detection_WACVW_2023_paper.html)
+* 2023		Face Morphing Detection Based on a Two-Stream Network with Channel Attention and Residual of Multiple Color Spaces		[[paper]](https://link.springer.com/chapter/10.1007/978-3-031-20102-8_34)		
+						
+						
+						
+						
 
 ## Differential MAD
 * 2020	Deep Face Representations for Differential Morphing Attack Detection	[[paper]](https://arxiv.org/abs/2001.01202)
