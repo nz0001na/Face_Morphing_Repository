@@ -57,15 +57,21 @@ Keep updating!!!
 
 
 
-# Face De-morphing
+# Face De-morphing Methods
 * 2022-IJCB		Facial De-morphing: Extracting Component Faces from a Single Morph	GAN	DAD as backbone		[[paper]](https://arxiv.org/abs/2209.02933)
 * 2020		Border Control Morphing Attack Detection With a Convolutional Neural Network De-Morphing Approach	AutoEncoder			[[paper]](https://ieeexplore.ieee.org/abstract/document/9091520)
 * 2019		FD-GAN: Face De-Morphing Generative Adversarial Network for Restoring Accomplice’s Facial Image	GAN [[paper]](https://ieeexplore.ieee.org/abstract/document/8730323)
 * 2018		Face demorphing in the presence of facial appearance variations	[[paper]](https://ieeexplore.ieee.org/abstract/document/8553430?casa_token=WBeRdqDeJNoAAAAA:9-mV0MSfPm95HK-WQdh10JId5-gVMr8BqgFemUK9oLiEA9aLqteeEDlnGsBZIHPmaX-D3pjQcg)
 * 2021		Conditional Identity Disentanglement for Differential Face Morph Detection [[paper]](https://arxiv.org/abs/2107.02162)
 
+# De-compose Methods
+* 2020	DAD	Deep Adversarial Decomposition: A Unified Framework for Separating Superimposed Images	[[code]](https://github.com/jiupinjia/Deep-adversarial-decomposition),	[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Zou_Deep_Adversarial_Decomposition_A_Unified_Framework_for_Separating_Superimposed_Images_CVPR_2020_paper.html),
+* [[pathGAN]](https://github.com/He-jerry/PatchGAN)		
+* 2017	CycleGAN	Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks	[[code]](https://github.com/junyanz/CycleGAN),	[[project]](https://junyanz.github.io/CycleGAN/),[[paper]](https://arxiv.org/pdf/1703.10593.pdf)	
+* 2015	U-Net	U-Net: Convolutional Networks for Biomedical Image Segmentation		[[project]](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)	
 
-     
+
+
 # others					
 * Perceptual loss	2018	lpips:	https://pypi.org/project/lpips/		
 		
