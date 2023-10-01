@@ -138,7 +138,11 @@ Keep updating!!!
 ## Differential MAD
 * 2020	Deep Face Representations for Differential Morphing Attack Detection	[[paper]](https://arxiv.org/abs/2001.01202)
 * 2021	A Double Siamese Framework for Differential Morphing Attack Detection	[[paper]](https://www.mdpi.com/1424-8220/21/10/3466)
-
+* 2021	Conditional Identity Disentanglement for Differential Face Morph Detection	[[paper]](https://ieeexplore.ieee.org/abstract/document/9484355?casa_token=TBPOtHMhQUQAAAAA:bYP7YoZ63NmlpYhuZ6BtMrgJO96UCisVJh2KrdWiWdBMVbLamlp0Wxrcnn2KeXFGCkEgplfH7w)	
+* 2021	Differential Morph Face Detection Using Discriminative Wavelet Sub-Bands [[paper]](https://openaccess.thecvf.com/content/CVPR2021W/Biometrics/html/Chaudhary_Differential_Morph_Face_Detection_Using_Discriminative_Wavelet_Sub-Bands_CVPRW_2021_paper.html)	
+* 2021	Differential Morphed Face Detection Using Deep Siamese Networks	[[paper]](https://link.springer.com/chapter/10.1007/978-3-030-68780-9_44)			
+* 2021	Mutual information maximization on disentangled representations for differential morph detection [[paper]](https://openaccess.thecvf.com/content/WACV2021/html/Soleymani_Mutual_Information_Maximization_on_Disentangled_Representations_for_Differential_Morph_Detection_WACV_2021_paper.html)		
+* 2022	Residual Colour Scale-Space Gradients for Reference-based Face Morphing Attack Detection [[paper]](https://ieeexplore.ieee.org/abstract/document/9841318)
 
 
 
