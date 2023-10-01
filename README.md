@@ -53,7 +53,12 @@ Keep updating!!!
 * 2022	AE-StyleGAN	AE-StyleGAN: Improved Training of Style-Based Auto-Encoders	[[paper]](https://openaccess.thecvf.com/content/WACV2022/html/Han_AE-StyleGAN_Improved_Training_of_Style-Based_Auto-Encoders_WACV_2022_paper.html), [[code]](https://github.com/phymhan/stylegan2-pytorch)
 
 ## Transformer-based:
-
+* 2021	Improving Visual Quality of Image Synthesis by A Token-based Generator with Transformers	[[paper]](https://proceedings.neurips.cc/paper/2021/hash/b056eb1587586b71e2da9acfe4fbd19e-Abstract.html)		
+* 2022	PixelFolder	PixelFolder: An Efficient Progressive Pixel Synthesis Network for Image Generation	[[paper]](https://arxiv.org/abs/2204.00833),	[[code]](https://github.com/BlingHe/PixelFolder)	
+* 2022	EdiBERT	EdiBERT, a generative model for image editing	[[paper]](https://arxiv.org/abs/2111.15264),	[[code]](http://code/)	
+* 2021	GANformer2	Compositional Transformers for Scene Generation	[[paper]](https://proceedings.neurips.cc/paper/2021/hash/4eff0720836a198b6174eecf02cbfdbf-Abstract.html),	[[code]](https://github.com/dorarad/gansformer)	
+* 2021	VQGAN	Taming Transformers for High-Resolution Image Synthesis	[[paper]](https://arxiv.org/abs/2012.09841),	[[code]](https://github.com/CompVis/taming-transformers),	[[project]](https://compvis.github.io/taming-transformers/)
+					
 
 
 
