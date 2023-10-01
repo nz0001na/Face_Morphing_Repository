@@ -59,7 +59,12 @@ Keep updating!!!
 * 2021	GANformer2	Compositional Transformers for Scene Generation	[[paper]](https://proceedings.neurips.cc/paper/2021/hash/4eff0720836a198b6174eecf02cbfdbf-Abstract.html),	[[code]](https://github.com/dorarad/gansformer)	
 * 2021	VQGAN	Taming Transformers for High-Resolution Image Synthesis	[[paper]](https://arxiv.org/abs/2012.09841),	[[code]](https://github.com/CompVis/taming-transformers),	[[project]](https://compvis.github.io/taming-transformers/)
 					
+## video-based generators
+* 2022	StyleHEAT	StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pre-trained StyleGAN	[[paper]](https://arxiv.org/abs/2203.04036),	[[code]](https://github.com/FeiiYin/StyleHEAT),	[[project]](https://feiiyin.github.io/StyleHEAT/), video generation
+2022	LIA	Latent Image Animator: Learning to Animate Images via Latent Space Navigation	[[paper]](https://arxiv.org/abs/2203.09043), [[project]](https://wyhsirius.github.io/LIA-project/), 	animating images
 
+## 3D generators
+* 2022		3D GAN Inversion for Controllable Portrait Image Animation	[[paper]](https://arxiv.org/abs/2203.13441), Portrait image animation and attribute editing	
 
 
 # Face De-morphing Methods
