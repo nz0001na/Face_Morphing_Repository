@@ -6,12 +6,25 @@ Keep updating!!!
 # Survey			
 ## Face Morphing
 * 2022	A Comprehensive Review of Face Morph Generation and Detection of Fraudulent Identities	[[paper]](https://www.mdpi.com/2076-3417/12/24/12545)
+* 2022	Morphing Attack Detection-State of the Art and Challenges [[report]](https://www.christoph-busch.de/files/Busch-MAD-220607.pdf)
+* 2022	Face Morphing Attack Detection Methods		
+* 2022	A Systematic Literature Review on Face Morphing Attack Detection (MAD)		
+* 2021	Face Morphing, a Modern Threat to Border Security: Recent Advances and Open Challenges	attack	[[paper]](https://www.mdpi.com/2076-3417/11/7/3207)
+* 2021	Face Recognition Systems Under Morphing Attacks: A Survey	attack	[[paper]](https://ieeexplore.ieee.org/abstract/document/8642312)
+* 2021	Face morphing attack generation and detection: A comprehensive survey		
+	
+
 
 ## 3D Morphing
-* 2022		3D Face Morphing Attacks: Generation, Vulnerability and Detection	[[paper]](https://arxiv.org/abs/2201.03454)
+* 2022	3D Face Morphing Attacks: Generation, Vulnerability and Detection	[[paper]](https://arxiv.org/abs/2201.03454)
+* 2022	Cross-Species 3D Face Morphing via Alignment-Aware Controller	[[paper]](https://www.aaai.org/AAAI22Papers/AAAI-2209.YanX.pdf)
+
+
+
+
+
 
 ## GAN
-		
 * 2022	State-of-the-Art in the Architecture, Methods and Applications of StyleGAN	[[paper]](https://arxiv.org/abs/2202.14020)
 * 2021	Review on Generative Adversarial Network in Computer Vision: Methods and Metrics	[[paper]](https://ieeexplore.ieee.org/abstract/document/9696113)
 * 2021	Review on Generative Adversarial Networks: Focusing on Computer Vision and Its Applications	[[paper]](https://www.mdpi.com/2079-9292/10/10/1216)
@@ -21,6 +34,12 @@ Keep updating!!!
 * 2022	Recent Advances in Vision Transformer: A Survey and Outlook of Recent Work	[[paper]](https://arxiv.org/abs/2203.01536)
 * 2022	Three things everyone should know about Vision Transformers	[[paper]](https://arxiv.org/abs/2203.09795)
 * 2022	Transformers in computational visual media: A survey	[[paper]](https://link.springer.com/article/10.1007/s41095-021-0247-3)
+
+# Databases
+* 2021	A Benchmark Database for the Comparison of Face Morphing Detection Methods	DB
+
+
+
 
 # Face Morphing Attacks
 * 2021	Vulnerability Analysis of Face Morphing Attacks from Landmarks and Generative Adversarial Networks	[[paper]](https://arxiv.org/abs/2012.05344)
@@ -78,6 +97,21 @@ Keep updating!!!
 
 ## 3D generators
 * 2022		3D GAN Inversion for Controllable Portrait Image Animation	[[paper]](https://arxiv.org/abs/2203.13441), Portrait image animation and attribute editing	
+
+
+# Face Morphing Attacks Detection (MAD)
+## Single-based MAD
+
+
+## Differential MAD
+* 2020	Deep Face Representations for Differential Morphing Attack Detection	[[paper]](https://arxiv.org/abs/2001.01202)
+* 2021	A Double Siamese Framework for Differential Morphing Attack Detection	[[paper]](https://www.mdpi.com/1424-8220/21/10/3466)
+
+
+
+
+
+
 
 
 # Face De-morphing Methods
