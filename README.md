@@ -4,6 +4,11 @@ This repository collects papers in the field of face morphing attacks and defens
 Keep updating!!!
 
 # Survey			
+## Face Morphing
+* 2022	A Comprehensive Review of Face Morph Generation and Detection of Fraudulent Identities	[[paper]](https://www.mdpi.com/2076-3417/12/24/12545)
+
+
+
 
 ## 3D Morphing
 * 2022		3D Face Morphing Attacks: Generation, Vulnerability and Detection	[[paper]](https://arxiv.org/abs/2201.03454)
@@ -74,6 +79,8 @@ Keep updating!!!
 * 2018		Face demorphing in the presence of facial appearance variations	[[paper]](https://ieeexplore.ieee.org/abstract/document/8553430?casa_token=WBeRdqDeJNoAAAAA:9-mV0MSfPm95HK-WQdh10JId5-gVMr8BqgFemUK9oLiEA9aLqteeEDlnGsBZIHPmaX-D3pjQcg)
 * 2021		Conditional Identity Disentanglement for Differential Face Morph Detection [[paper]](https://arxiv.org/abs/2107.02162)
 
+
+  
 # De-compose Methods
 * 2020	DAD	Deep Adversarial Decomposition: A Unified Framework for Separating Superimposed Images	[[code]](https://github.com/jiupinjia/Deep-adversarial-decomposition),	[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Zou_Deep_Adversarial_Decomposition_A_Unified_Framework_for_Separating_Superimposed_Images_CVPR_2020_paper.html),
 * [[pathGAN]](https://github.com/He-jerry/PatchGAN)		
