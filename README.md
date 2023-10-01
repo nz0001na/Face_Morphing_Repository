@@ -49,7 +49,15 @@ Keep updating!!!
 * 2023	Diffusion Models For Stronger Face Morphing Attacks	[[paper]](https://arxiv.org/abs/2301.04218)
 * 2022	3D Face Morphing Attacks: Generation, Vulnerability and Detection	[[paper]](https://arxiv.org/abs/2201.03454)
 
+* 2021	Face Morphing Attacks: A Threat to eLearning?	attack	[[paper]](https://ieeexplore.ieee.org/abstract/document/9454128?casa_token=76S29LHzEScAAAAA:UK166yp_r_Osz7rnk_0U0rCIreZz1a9DXKWiQk10gPkPWennJ8l3cbi7_oV4mmap5rB7OGoObQ)		
+* 2022	[RFM]	Fast 2-Step Regularization on Style Optimization for Real Face Morphing	attack	[[paper]](https://www.techrxiv.org/articles/preprint/2-Step_Regularization_on_Style_Optimization_for_Real_Face_Morphing/19105493),  [[code]](https://github.com/disanda/RFM)	
+* 2022		Face Morphing: Fooling a Face Recognition System Is Simple!	attack	[[paper]](https://arxiv.org/abs/2205.13796)		
+* 2022		Building robust morphing attacks for face recognition systems	attack	[[paper]](https://ieeexplore.ieee.org/document/9797174)	
+* 2022		The Influence of the Other-Race Effect on Susceptibility to Face Morphing Attacks	attack	[[paper]](https://arxiv.org/abs/2204.12591)		
+* 2022	[SMDD]	Privacy-Friendly Synthetic Data for the Development of Face Morphing Attack Detectors	synthetic-based DB	[[paper]](https://openaccess.thecvf.com/content/CVPR2022W/Biometrics/html/Damer_Privacy-Friendly_Synthetic_Data_for_the_Development_of_Face_Morphing_Attack_CVPRW_2022_paper.html), [[code]](https://github.com/naserdamer/smdd-synthetic-face-morphing-attack-detection-development-dataset),	[[project]](https://arxiv.org/abs/2203.06691)
+	
 
+						
 
 
 # Generation Models
