@@ -1,4 +1,4 @@
-# Face Morphing
+# Face Morphing and De-morphing
 This repository collects papers in the field of face morphing attacks and defense, including surveys, databases, generation models and detection methods.
 
 Keep updating!!!
@@ -50,8 +50,22 @@ Keep updating!!!
 * 2022		Expanding the Latent Space of StyleGAN for Real Face Editing	[[paper]](https://arxiv.org/abs/2204.12530), face editing	
 * 2022	LELSD	Optimizing Latent Space Directions for Gan-Based Local Image Editing	[[paper]](https://ieeexplore.ieee.org/abstract/document/9747326?casa_token=OPLa6aQp2EYAAAAA:lW3PGF1GUk4OZsYFRH1ebQGu7kBz0yZt1FFLKBENIABEWxrOk0gdnhHxual8QJhCUe_UQ49UnA), Local Image Editing	
 * 2022		Towards High-Fidelity Face Self-occlusion Recovery via Multi-view Residual-based GAN Inversion	[[paper]](https://www.aaai.org/AAAI22Papers/AAAI-2208.ChenJ.pdf), Face Self-occlusion Recovery	
-* 2022	AE-StyleGAN	AE-StyleGAN: Improved Training of Style-Based Auto-Encoders	[[paper]](https://openaccess.thecvf.com/content/WACV2022/html/Han_AE-StyleGAN_Improved_Training_of_Style-Based_Auto-Encoders_WACV_2022_paper.html), [[code]](https://github.com/phymhan/stylegan2-pytorch)								
-					
+* 2022	AE-StyleGAN	AE-StyleGAN: Improved Training of Style-Based Auto-Encoders	[[paper]](https://openaccess.thecvf.com/content/WACV2022/html/Han_AE-StyleGAN_Improved_Training_of_Style-Based_Auto-Encoders_WACV_2022_paper.html), [[code]](https://github.com/phymhan/stylegan2-pytorch)
+
+## Transformer-based:
+
+
+
+
+# Face De-morphing
+* 2022-IJCB		Facial De-morphing: Extracting Component Faces from a Single Morph	GAN	DAD as backbone		[[paper]](https://arxiv.org/abs/2209.02933)
+* 2020		Border Control Morphing Attack Detection With a Convolutional Neural Network De-Morphing Approach	AutoEncoder			[[paper]](https://ieeexplore.ieee.org/abstract/document/9091520)
+* 2019		FD-GAN: Face De-Morphing Generative Adversarial Network for Restoring Accomplice’s Facial Image	GAN [[paper]](https://ieeexplore.ieee.org/abstract/document/8730323)
+* 2018		Face demorphing in the presence of facial appearance variations	[[paper]](https://ieeexplore.ieee.org/abstract/document/8553430?casa_token=WBeRdqDeJNoAAAAA:9-mV0MSfPm95HK-WQdh10JId5-gVMr8BqgFemUK9oLiEA9aLqteeEDlnGsBZIHPmaX-D3pjQcg)
+* 2021		Conditional Identity Disentanglement for Differential Face Morph Detection [[paper]](https://arxiv.org/abs/2107.02162)
+
+
+     
 # others					
 * Perceptual loss	2018	lpips:	https://pypi.org/project/lpips/		
 		
