@@ -15,12 +15,10 @@ Keep updating!!!
 	
 
 
+
 ## 3D Morphing
 * 2022	3D Face Morphing Attacks: Generation, Vulnerability and Detection	[[paper]](https://arxiv.org/abs/2201.03454)
 * 2022	Cross-Species 3D Face Morphing via Alignment-Aware Controller	[[paper]](https://www.aaai.org/AAAI22Papers/AAAI-2209.YanX.pdf)
-
-
-
 
 
 
